@@ -24,7 +24,7 @@ from telegram.ext import (
 # ⚠️ IMPORTANT:
 # - DO NOT paste real token publicly.
 # - BotFather: /revoke -> get new token -> paste here.
-BOT_TOKEN = "8634130308:AAGRbg2475S8YvmfZfY5QH2cw6wklfkpMdo"
+BOT_TOKEN = "8669466068:AAFLiY2J2b25vruqF0LCGG40GVoBDqd2MjI"
 
 APP_NAME = "Pinnacle Academy"
 
@@ -426,3 +426,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
